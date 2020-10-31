@@ -1,19 +1,18 @@
 {
-  "name": "eslint-config-felixk76-es5",
-  "version": "1.0.14",
+  "name": "eslint-config-felixk76",
+  "version": "1.0.15",
   "description": "Eslint-config for my ES5 Websites",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/saint-elmos/eslint-config-se-es5.git"
+    "url": "git+ssh://git@github.com/felixk76/eslint-config-felixk76.git"
   },
   "author": "Felix Kirmaier",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/saint-elmos/eslint-config-se-es5#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.0.6",
-    "eslint": ">= 6",
+    "eslint": "^7.9.0",
     "eslint-config-standard": "^14.1.0",
     "eslint-nibble": "^5.1.0",
     "eslint-plugin-import": "^2.20.0",

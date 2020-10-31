@@ -1,29 +1,32 @@
-# README #
+# eslint-config-felixk76-es5
 
-This README would normally document whatever steps are necessary to get your application up and running.
+> ESLint [shareable config](https://eslint.org/docs/developer-guide/shareable-configs.html)
 
-### What is this repository for? ###
+This is the eslint-config I use for my ES5 Websites
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Install
 
-### How do I get set up? ###
+```
+$ npm install --save-dev eslint-config-felixk76
+```
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## Usage
 
-### Contribution guidelines ###
+Add some ESLint config to your `package.json`:
 
-* Writing tests
-* Code review
-* Other guidelines
+```json
+{
+	"name": "my-awesome-project",
+	"eslintConfig": {
+		"extends": "eslint-config-felixk76"
+	}
+}
+```
 
-### Who do I talk to? ###
+Or to `.eslintrc`:
 
-* Repo owner or admin
-* Other community or team contact
+```json
+{
+	"extends": "eslint-config-felixk76"
+}
+```
