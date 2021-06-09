@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/felixk76/eslint-config-felixk76.git"
+    "url": "git+ssh://git@github.com/felixk76/eslint-config-felixk76-es5.git"
   },
   "author": "Felix Kirmaier",
   "license": "ISC",
