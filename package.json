@@ -1,11 +1,11 @@
 {
   "name": "eslint-config-felixk76",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Eslint-config for my ES5 Websites",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/felixk76/eslint-config-felixk76.git"
+    "url": "git+ssh://git@github.com/felixk76/eslint-config-felixk76-es5.git"
   },
   "author": "Felix Kirmaier",
   "license": "ISC",
