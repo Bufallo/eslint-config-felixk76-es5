@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-felixk76",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "Eslint-config for my ES5 Websites",
   "main": "index.js",
   "repository": {
@@ -9,22 +9,14 @@
   },
   "author": "Felix Kirmaier",
   "license": "ISC",
+  "scripts": {
+    "lint": "eslint ."
+  },
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
+    "@babel/eslint-parser": "^7.16.5",
     "babel-loader": "^8.2.2",
     "eslint": "^7.28.0",
     "eslint-config-standard": "^16.0.3",
-    "eslint-nibble": "^6.1.0",
-    "eslint-plugin-import": "^2.23.4",
-    "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.1.0"
-  },
-  "peerDependencies": {
-    "babel-eslint": "^10.1.0",
-    "babel-loader": "^8.2.2",
-    "eslint": ">=7",
-    "eslint-config-standard": "^16.0.3",
-    "eslint-nibble": "^6.1.0",
     "eslint-plugin-import": "^2.23.4",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.1.0"
