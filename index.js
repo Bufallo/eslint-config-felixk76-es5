@@ -16,7 +16,7 @@ module.exports = {
     "parser": "@babel/eslint-parser",
     "parserOptions": {
         "ecmaVersion": 2018,
-        "requireConfigFile":"false"
+        "requireConfigFile": false
     },
     "rules": {
         "indent": [2, 4],

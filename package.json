@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-felixk76",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "description": "Eslint-config for my ES5 Websites",
   "main": "index.js",
   "repository": {
@@ -12,7 +12,7 @@
   "scripts": {
     "lint": "eslint ."
   },
-  "dependencies": {
+  "devDependencies": {
     "@babel/eslint-parser": "^7.16.5",
     "babel-loader": "^8.2.2",
     "eslint": "^7.28.0",
