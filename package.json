@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-felixk76",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "description": "Eslint-config for my ES5 Websites",
   "main": "index.js",
   "repository": {
