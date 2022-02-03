@@ -13,21 +13,21 @@
     "lint": "eslint ."
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.16.5",
-    "babel-loader": "^8.2.2",
-    "eslint": "^8.0.0",
+    "@babel/eslint-parser": "^7.17.0",
+    "babel-loader": "^8.2.3",
+    "eslint": "^8.8.0",
     "eslint-config-standard": "^16.0.3",
-    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.1.0"
+    "eslint-plugin-promise": "^6.0.0"
   },
   "peerDependencies": {
-    "@babel/eslint-parser": "^7.16.5",
-    "babel-loader": "^8.2.2",
-    "eslint": "^8.0.0",
+    "@babel/eslint-parser": "^7.17.0",
+    "babel-loader": "^8.2.3",
+    "eslint": "^8.8.0",
     "eslint-config-standard": "^16.0.3",
-    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.1.0"
+    "eslint-plugin-promise": "^6.0.0"
   }
 }
