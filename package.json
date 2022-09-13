@@ -13,22 +13,22 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@babel/core": "^7.17.0",
-    "@babel/eslint-parser": "^7.17.0",
-    "babel-loader": "^8.2.3",
-    "eslint": "^8.8.0",
-    "eslint-config-standard": "^16.0.3",
-    "eslint-plugin-import": "^2.25.4",
+    "@babel/core": "^7.19.0",
+    "@babel/eslint-parser": "^7.18.9",
+    "babel-loader": "^8.2.5",
+    "eslint": "^8.23.1",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^6.0.0"
+    "eslint-plugin-promise": "^6.0.1"
   },
   "peerDependencies": {
-    "@babel/eslint-parser": "^7.17.0",
-    "babel-loader": "^8.2.3",
-    "eslint": "^8.8.0",
-    "eslint-config-standard": "^16.0.3",
-    "eslint-plugin-import": "^2.25.4",
+    "@babel/eslint-parser": "^7.18.9",
+    "babel-loader": "^8.2.5",
+    "eslint": "^8.23.1",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^6.0.0"
+    "eslint-plugin-promise": "^6.0.1"
   }
 }
